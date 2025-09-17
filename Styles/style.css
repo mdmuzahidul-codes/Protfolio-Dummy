@@ -166,3 +166,11 @@
 .n__title{
     margin-bottom: 0.5rem;
 }
+.iframe__container{
+    padding: 2rem;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+}
+
+.inspiration__subtitle{
+    margin-bottom: 3rem;
+}
